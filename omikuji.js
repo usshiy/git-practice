@@ -26,4 +26,5 @@ if(rand==3){
 else{
     userresutl="凶";
 }
+
 document.getElementById("result").innerHTML = userresult;
